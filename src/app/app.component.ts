@@ -31,6 +31,11 @@ export class AppComponent {
       title: 'Register',
       url: '/register',
       icon: 'list'
+    },
+    {
+      title: 'Books',
+      url: '/books',
+      icon: 'list'
     }
   ];
 
